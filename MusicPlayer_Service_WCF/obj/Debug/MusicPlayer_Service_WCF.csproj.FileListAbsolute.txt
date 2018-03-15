@@ -1,0 +1,6 @@
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Service_WCF\bin\MusicPlayer_Service_WCF.dll.config
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Service_WCF\bin\MusicPlayer_Service_WCF.dll
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Service_WCF\bin\MusicPlayer_Service_WCF.pdb
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Service_WCF\obj\Debug\MusicPlayer_Service_WCF.csprojResolveAssemblyReference.cache
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Service_WCF\obj\Debug\MusicPlayer_Service_WCF.dll
+c:\users\rudi\documents\visual studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Service_WCF\obj\Debug\MusicPlayer_Service_WCF.pdb

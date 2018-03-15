@@ -1,0 +1,11 @@
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\bin\Debug\MusicPlayer_Host.exe.config
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\bin\Debug\MusicPlayer_Host.exe
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\bin\Debug\MusicPlayer_Host.pdb
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\bin\Debug\MusicPlayer_Service_WCF.dll
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\bin\Debug\MusicPlayer_Service_WCF.pdb
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\obj\Debug\MusicPlayer_Host.csprojResolveAssemblyReference.cache
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\obj\Debug\MusicPlayer_Host.Form1.resources
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\obj\Debug\MusicPlayer_Host.Properties.Resources.resources
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\obj\Debug\MusicPlayer_Host.csproj.GenerateResource.Cache
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\obj\Debug\MusicPlayer_Host.exe
+C:\Users\rudi\Documents\Visual Studio 2015\Projects\MusicPlayer_Service_WCF\MusicPlayer_Host\obj\Debug\MusicPlayer_Host.pdb
